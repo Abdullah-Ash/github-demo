@@ -1,4 +1,4 @@
-<h1>This is a ReadMe.md File for Github<h1>
+<h1>This is a ReadMe.md File for Github</h1>
 <br>
-Author - Abdullah Chauhdary.
+<p>Author - Abdullah Chauhdary.</p>
 <br>
